@@ -1,0 +1,74 @@
+.rightupper{
+    margin: 15px;
+}
+
+.email{
+    margin: 15px;
+    width: 400px;
+    
+    }
+
+.pwd{
+    margin: 15px;
+    width: 400px;
+}
+
+.rem{
+
+    margin: 15px;
+}
+
+.Log{
+
+    margin: 15px;
+    width:400px;
+    border-radius: 80px;
+    color:white;
+    background: blue;
+    padding: 10px;
+}
+
+
+.Logwg{
+    margin: 15px;
+    width:400px;
+    border-radius: 80px;
+    color:white;
+    background: red;
+    padding: 10px;
+
+}
+
+.Logwf{
+    margin: 15px;
+    width:400px;
+    border-radius: 80px;
+    color:white;
+    background: blue;
+    padding: 10px
+
+}
+
+.rem{
+    border-radius: 100px;
+}
+
+
+
+/* .left{
+    padding: 50px;
+} */
+.right{
+    width: 400px;
+     
+}
+
+
+.rightlower{
+     margin-left: 100px;
+}
+
+.Login{
+    display: flex;
+     padding: 80px;
+    }
